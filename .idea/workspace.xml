@@ -4,13 +4,74 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b148bdb-5a7b-47f3-8d7e-fe72e15fb738" name="Changes" comment="" />
+    <list default="true" id="9b148bdb-5a7b-47f3-8d7e-fe72e15fb738" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../authorization-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/AuthorizationServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/AuthorizationServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/config/AuthorizationServerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/config/AuthorizationServerConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/entity/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/entity/Permission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/entity/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/entity/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/service/UserDetailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization-server/src/main/java/com/example/authorizationserver/service/UserDetailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorization-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorization-server/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization-server/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorization-server/src/test/java/com/example/authorizationserver/AuthorizationServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization-server/src/test/java/com/example/authorizationserver/AuthorizationServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cloud/commons/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cloud/commons/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cloud/commons/model/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cloud/commons/model/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-service/src/main/java/com/example/profileservice/ProfileServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-service/src/main/java/com/example/profileservice/ProfileServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-service/src/main/java/com/example/profileservice/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-service/src/main/java/com/example/profileservice/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-service/src/main/java/com/example/profileservice/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-service/src/main/java/com/example/profileservice/repository/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-service/src/main/java/com/example/profileservice/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-service/src/main/java/com/example/profileservice/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-service/src/main/java/com/example/profileservice/service/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-service/src/main/java/com/example/profileservice/service/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-service/src/test/java/com/example/profileservice/ProfileServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-service/src/test/java/com/example/profileservice/ProfileServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rent-ui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rent-ui/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rent-ui/src/main/java/com/example/rentui/RentUiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rent-ui/src/main/java/com/example/rentui/RentUiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rent-ui/src/main/java/com/example/rentui/config/AccessToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rent-ui/src/main/java/com/example/rentui/config/AccessToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rent-ui/src/main/java/com/example/rentui/controller/UiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rent-ui/src/main/java/com/example/rentui/controller/UiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rent-ui/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../rent-ui/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rent-ui/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../rent-ui/src/main/resources/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rent-ui/src/main/resources/templates/secured.html" beforeDir="false" afterPath="$PROJECT_DIR$/../rent-ui/src/main/resources/templates/secured.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rent-ui/src/test/java/com/example/rentui/RentUiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rent-ui/src/test/java/com/example/rentui/RentUiApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="workspaceImportEnabled" value="true" />
@@ -23,14 +84,113 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Learning/rent-ui/src/main/resources/templates&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;9a04886ea2a10de41112786316182fc8&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learning\rent-ui\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RentUiApplication">
+    <configuration name="data.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/../authorization-server/src/main/resources/data.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="cloud-commons [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="AuthorizationServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="authorization-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.authorizationserver.AuthorizationServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfileServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="profile-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.profileservice.ProfileServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentUiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="rent-ui" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rentui.RentUiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Database Script.data.sql" />
+      <item itemvalue="Maven.cloud-commons [clean,install]" />
+      <item itemvalue="Spring Boot.RentUiApplication" />
+      <item itemvalue="Spring Boot.AuthorizationServerApplication" />
+      <item itemvalue="Spring Boot.ProfileServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.data.sql" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,7 +199,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677656109525</updated>
+      <workItem from="1677656110911" duration="1341000" />
+      <workItem from="1677657514431" duration="7658000" />
+      <workItem from="1678804076351" duration="1913000" />
+      <workItem from="1678806093259" duration="5043000" />
+      <workItem from="1678856537795" duration="1480000" />
+      <workItem from="1678861206407" duration="12862000" />
+      <workItem from="1678888487749" duration="5849000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

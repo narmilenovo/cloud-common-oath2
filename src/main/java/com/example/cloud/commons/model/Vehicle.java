@@ -1,16 +1,14 @@
-package org.example.cloud.commons.model;
+package com.example.cloud.commons.model;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 @Entity
-@Table
+@Table(name = "vehicle")
 public class Vehicle {
     @Id
-    @GeneratedValue
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+
     private String make;
     private String model;
     private String type;
@@ -23,6 +21,7 @@ public class Vehicle {
     public void setId(Long id) {
         this.id = id;
     }
+
 
     public String getMake() {
         return make;

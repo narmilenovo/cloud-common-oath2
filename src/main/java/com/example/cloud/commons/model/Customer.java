@@ -1,13 +1,14 @@
-package org.example.cloud.commons.model;
+package com.example.cloud.commons.model;
 
 import javax.persistence.*;
 
 @Entity
-@Table
+@Table(name = "customer")
 public class Customer {
     @Id
-    @GeneratedValue
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+
     private String firstName;
     private String lastName;
     private String zipCode;
